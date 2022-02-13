@@ -12,7 +12,7 @@ int main()
     
         printf("B is greater than A");
     
-    else if (b = a)
+    else if (b == a)
     
         printf("B is equal to A");
     }
